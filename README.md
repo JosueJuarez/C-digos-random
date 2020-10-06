@@ -1,3 +1,3 @@
 # Códigos-randoms
 
-Cosas random que he programado.
+Cosas random que he hecho.
