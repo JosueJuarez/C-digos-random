@@ -9,6 +9,7 @@ Cosas random que he hecho.
     
 - Cosas random / Random things:
 
-    - Redes y igraph / Networks and igraph
+    - Redes y igraph / Networks and igraph.
     - Modelos epidémicos / Epidemic models. (SIR, SEIR).
     - Juego de la vida / Game of life.
+    - Mapeo Logístico / Logistic map.
