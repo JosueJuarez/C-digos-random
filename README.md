@@ -13,3 +13,9 @@ Cosas random que he hecho.
     - Modelos epidémicos / Epidemic models. (SIR, SEIR).
     - Juego de la vida / Game of life.
     - Mapeo Logístico / Logistic map.
+
+- Probabilidad y Estadística / Probability and Statistics:
+
+    - Bootstrap (método bootstrap).
+    - Pruebas de Hipótesis / Hypothesis testing
+    - Regresión Lineal / Linear regresion
