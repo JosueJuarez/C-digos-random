@@ -19,3 +19,8 @@ Cosas random que he hecho.
     - Bootstrap (método bootstrap).
     - Pruebas de Hipótesis / Hypothesis testing
     - Regresión Lineal / Linear regresion
+
+- Cálculo Estocástico
+
+    - Proceso de Wiener / Wiener Process
+    - Otros procesos de Wiener / Other Wiener processes
