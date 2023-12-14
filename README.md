@@ -16,11 +16,13 @@ Cosas random que he hecho.
 
 - Probabilidad y Estadística / Probability and Statistics:
 
-    - Bootstrap (método bootstrap).
-    - Pruebas de Hipótesis / Hypothesis testing
-    - Regresión Lineal / Linear regresion
+    - Bootstrap (método bootstrap) / Bootstrap method.
+    - Pruebas de Hipótesis / Hypothesis testing.
+    - Regresión Lineal / Linear regresion.
 
 - Cálculo Estocástico
 
-    - Proceso de Wiener / Wiener Process
-    - Otros procesos de Wiener / Other Wiener processes
+    - Proceso de Wiener / Wiener Process.
+    - Otros procesos de Wiener / Other Wiener processes.
+    - MBG (Movimiento Browniano Geométrico) / Geometric Brownian Motion (GBM).
+    - Ornstein-Uhlenbeck (proceso de Ornstein-Uhlenbeck) / Ornstein-Uhlenbeck process.
