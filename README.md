@@ -26,3 +26,6 @@ Cosas random que he hecho.
     - Otros procesos de Wiener / Other Wiener processes.
     - MBG (Movimiento Browniano Geométrico) / Geometric Brownian Motion (GBM).
     - Ornstein-Uhlenbeck (proceso de Ornstein-Uhlenbeck) / Ornstein-Uhlenbeck process.
+    - Euler-Maruyama (método) / Euler-Maruyama method.
+    - E-M_MBG (método E-M para el MBG) / E-M method for GBM.
+    - E-M_PuenteB (método E-M para el puente browniano) / E-M method for brownian bridge.
