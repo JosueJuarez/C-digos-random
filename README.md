@@ -19,6 +19,8 @@ Cosas random que he hecho.
     - Bootstrap (método bootstrap) / Bootstrap method.
     - Pruebas de Hipótesis / Hypothesis testing.
     - Regresión Lineal / Linear regresion.
+    - Aproximación monte carlo al número $\pi$ / Monte carlo approximation to $\pi$.
+    - Integración tipo montecarlo / Monte carlo integration.
 
 - Cálculo Estocástico
 
